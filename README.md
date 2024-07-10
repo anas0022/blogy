@@ -4,7 +4,7 @@ This is a simple blog application built with Laravel 8.x. The application allows
 
 Setup and Run
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/anas0022/blogy.git
 Install the dependencies: composer install
 Create a new database and update the .env file with the database credentials.
 Run the migrations: php artisan migrate
